@@ -72,24 +72,6 @@ No solo analizo lo que llega — entiendo por qué llega así.
 
 ---
 
-## 📊 Actividad en GitHub
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lopezzuluagaj3-collab&show_icons=true&theme=radical&include_all_commits=true&count_private=true&bg_color=0d0d0d&border_color=8b5cf6&title_color=ec4899&icon_color=8b5cf6&text_color=ffffff"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lopezzuluagaj3-collab&layout=compact&langs_count=8&theme=radical&bg_color=0d0d0d&border_color=8b5cf6&title_color=ec4899&text_color=ffffff"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=lopezzuluagaj3-collab&theme=radical&background=0d0d0d&border=8b5cf6&ring=ec4899&fire=8b5cf6&currStreakLabel=ffffff&sideLabels=ffffff&dates=8b5cf6" />
-
-</div>
-
----
-
 ## 💡 Lo que me hace diferente como Analista
 
 <div align="center">
