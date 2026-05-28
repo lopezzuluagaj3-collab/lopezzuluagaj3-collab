@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=200&section=header&text=Juan%20Diego%20Lopez&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%7C%20Python%20%7C%20Power%20BI%20%7C%20Pipeline%20Aware&descAlignY=58&descAlign=50&descSize=18" width="100%"/>
 
 <!-- BADGES DE CONTACTO -->
-[![LinkedIn](https://www.linkedin.com/in/juan-diego-lopez-zuluaga/)](https://linkedin.com/in/tu-perfil)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Juan%20Diego%20Lopez-8b5cf6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-diego-lopez-zuluaga)
 [![GitHub](https://img.shields.io/badge/GitHub-lopezzuluagaj3--collab-ec4899?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lopezzuluagaj3-collab)
 [![Email](https://img.shields.io/badge/Email-Contacto-8b5cf6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu@email.com)
 
