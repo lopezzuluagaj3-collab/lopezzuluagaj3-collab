@@ -1,12 +1,12 @@
 <div align="center">
 
 <!-- HEADER ANIMADO -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=200&section=header&text=Juan%20Diego%20Lopez&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%7C%20Python%20%7C%20Power%20BI%20%7C%20Pipeline%20Aware&descAlignY=58&descAlign=50&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=200&section=header&text=Juan%20Diego%20López&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Engineer%20%7C%20Cloud%20%26%20Data%20Platform%20%7C%20AWS%20%7C%20Kubernetes&descAlignY=58&descAlign=50&descSize=18" width="100%"/>
 
 <!-- BADGES DE CONTACTO -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Juan%20Diego%20Lopez-8b5cf6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-diego-lopez-zuluaga)
-[![GitHub](https://img.shields.io/badge/GitHub-lopezzuluagaj3--collab-ec4899?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lopezzuluagaj3-collab)
-[![Email](https://img.shields.io/badge/Email-Contacto-8b5cf6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Juan%20Diego%20López-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-diego-lopez-zuluaga)
+[![GitHub](https://img.shields.io/badge/GitHub-lopezzuluagaj3--collab-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lopezzuluagaj3-collab)
+[![Email](https://img.shields.io/badge/Email-lopezzuluagaj3%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lopezzuluagaj3@gmail.com)
 
 </div>
 
@@ -14,13 +14,13 @@
 
 ## 🧠 Sobre Mí
 
-Soy **Data Analyst Junior** con enfoque en transformar datos en decisiones de negocio claras y accionables. Trabajo con **Python, Power BI y SQL** para limpiar, modelar y visualizar datos — desde la extracción hasta el dashboard final.
+Soy **Data Engineer** orientado a construir pipelines de datos masivos (ELT/ETL) y plataformas analíticas en la nube (**AWS**), combinando ingeniería de datos con prácticas modernas de **DevOps & IaC**.
 
-Lo que me diferencia de otros perfiles Junior es que entiendo el dato desde su origen: he trabajado con arquitecturas de ingesta y orquestación (**Airflow, Spark, RabbitMQ**), lo que me permite colaborar directamente con equipos de ingeniería sin fricciones, interpretar pipelines existentes y anticipar problemas de calidad de datos antes de que lleguen al análisis.
+Cuento con experiencia práctica diseñando e implementando arquitecturas distribuidas capaces de procesar **más de 4,000 millones de registros** (NYC TLC Dataset) bajo restricciones estrictas de presupuesto (**<100 USD**) y recursos (workers de 4 GB RAM).
 
-No solo analizo lo que llega — entiendo por qué llega así.
+Mi enfoque integra el ciclo completo del dato: desde la ingesta distribuidia y el modelado dimensional, hasta el aprovisionamiento de infraestructura automatizada y contenedores.
 
-> *"El mejor analista no es el que mejor hace gráficas. Es el que sabe exactamente de dónde viene el dato y por qué puede estar mal."*
+> *"Un buen pipeline de datos no solo procesa datos masivos; lo hace de forma autosostenible, segura, escalable y con eficiencia de costos."*
 
 ---
 
@@ -28,30 +28,31 @@ No solo analizo lo que llega — entiendo por qué llega así.
 
 <div align="center">
 
-### 📊 Análisis & Visualización ← *Foco principal*
-[![My Skills](https://skillicons.dev/icons?i=python&theme=dark)](https://skillicons.dev)
-
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
----
-
-### 🔁 Conocimiento de Infraestructura de Datos ← *Diferenciador técnico*
-
-![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+### 🧱 Data Engineering & Big Data
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-![Docker Compose](https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
-### 🌐 Desarrollo Complementario
-[![My Skills](https://skillicons.dev/icons?i=javascript,html,css,tailwind&theme=dark)](https://skillicons.dev)
+### ☁️ Cloud, Infrastructure & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes%20(K3s)-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+---
+
+### 🛡️ DevSecOps & Servidores
+![Checkov](https://img.shields.io/badge/Checkov-2A2D34?style=for-the-badge&logo=bridgecrew&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 </div>
 
@@ -63,25 +64,24 @@ No solo analizo lo que llega — entiendo por qué llega así.
 
 | 🚀 Proyecto | 📋 Descripción | 🛠️ Stack |
 |:---|:---|:---|
-| **[Dashboard Analítico Power BI](https://github.com/lopezzuluagaj3-collab)** | Análisis de datos con visualización de KPIs en Power BI. Transformación y limpieza previa con Python/Pandas antes de la capa de visualización. | `Power BI` `Python` `Pandas` `PostgreSQL` |
-| **[ETL Analítico con Python](https://github.com/lopezzuluagaj3-collab)** | Pipeline ETL modular para extracción, transformación y carga de datos estructurados. Validación de esquemas y logging de errores incluidos. | `Python` `Pandas` `PostgreSQL` |
-| **[Arquitectura de Pipeline Distribuido](https://github.com/lopezzuluagaj3-collab)** | Implementación técnica de un pipeline completo en AWS: orquestación con Airflow, mensajería con RabbitMQ, procesamiento con Spark y monitoreo con Flower — levantado con Docker Compose. | `Airflow` `Spark` `RabbitMQ` `AWS` `Docker Compose` |
-| **[API REST + MongoDB](https://github.com/lopezzuluagaj3-collab)** | Backend con Express.js conectado a MongoDB. Comprensión de fuentes de datos no relacionales aplicable a análisis de datos semi-estructurados. | `Express` `MongoDB` `JavaScript` |
+| **[Pipeline ELT Sirius — NYC TLC](https://github.com/lopezzuluagaj3-collab)** | Pipeline de procesamiento masivo en AWS para **4B+ registros**. Implementación de Arquitectura Medallion (AWS Glue + Athena) reduciendo costos operacionales a <100 USD en workers de 4 GB. | `AWS` `Spark` `dbt` `Airflow` `Athena` |
+| **[Polaris Logistics — Platform on K8s](https://github.com/lopezzuluagaj3-collab)** | Plataforma ETL desplegada sobre Kubernetes (K3s) autogestionado con Helm. Infraestructura declarativa con Terraform, CI/CD y escaneo de seguridad con Checkov. | `Kubernetes` `Helm` `Terraform` `DevSecOps` |
+| **[Event-Driven Data Pipeline](https://github.com/lopezzuluagaj3-collab)** | Optimización de orquestación reemplazando un DAG masivo de 138 tareas por arquitectura guiada por eventos vía API REST y tokens JWT sobre PostgreSQL. | `Airflow` `Python` `REST API` `PostgreSQL` |
 
 </div>
 
 ---
 
-## 💡 Lo que me hace diferente como Analista
+## 💡 Competencias Clave
 
 <div align="center">
 
-| Habilidad | Por qué importa al negocio |
+| Habilidad | Impacto Técnico & Negocio |
 |:---:|:---|
-| **Entiendo el pipeline completo** | Detecto problemas de calidad de datos en la fuente, no solo cuando ya llegaron al reporte |
-| **Python + Power BI juntos** | Automatizo transformaciones antes de visualizar — menos errores manuales, más confiabilidad |
-| **SQL y NoSQL** | Analizo datos relacionales (PostgreSQL) y semi-estructurados (MongoDB) sin depender de un solo modelo |
-| **Visión de arquitectura** | Colaboro con equipos de ingeniería sin fricción — hablo su lenguaje y el del negocio |
+| **Big Data & Cost Optimization** | Procesamiento eficiente en Spark y dbt sin sobredimensionar la infraestructura en la nube |
+| **Infrastructure as Code (IaC)** | Despliegues automatizados con Terraform (Zero-destroy, Drift detection) |
+| **Orquestación & Contenedores** | Gestión de flujos complejos en Airflow y empaquetado/despliegue en Docker y Kubernetes (K3s) |
+| **Data Security & Hardening** | Integración de políticas RBAC, escaneo DevSecOps en CI/CD y hardening de VPS |
 
 </div>
 
@@ -92,6 +92,6 @@ No solo analizo lo que llega — entiendo por qué llega así.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=120&section=footer&animation=fadeIn" width="100%"/>
 
-*Convirtiendo datos en decisiones desde Medellín, Colombia 🇨🇴*
+*Construyendo infraestructura y pipelines de datos escalables desde Medellín, Colombia 🇨🇴*
 
 </div>
