@@ -1,0 +1,50 @@
+<svg width="100%" height="220" viewBox="0 0 1200 220" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a0014" />
+      <stop offset="30%" stop-color="#1d0033" />
+      <stop offset="60%" stop-color="#3b0764" />
+      <stop offset="100%" stop-color="#6b21a8" />
+    </linearGradient>
+    <linearGradient id="wave-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#a855f7" stop-opacity="0.4" />
+      <stop offset="50%" stop-color="#c084fc" stop-opacity="0.2" />
+      <stop offset="100%" stop-color="#7c3aed" stop-opacity="0.5" />
+    </linearGradient>
+    <linearGradient id="accent-text" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#f3e8ff" />
+      <stop offset="50%" stop-color="#ffffff" />
+      <stop offset="100%" stop-color="#e9d5ff" />
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="8" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+  </defs>
+
+  <!-- Background Base -->
+  <rect width="1200" height="220" rx="16" fill="url(#bg-grad)" />
+
+  <!-- Ambient Glow Blobs -->
+  <circle cx="150" cy="60" r="120" fill="#a855f7" opacity="0.18" filter="url(#glow)" />
+  <circle cx="1050" cy="160" r="140" fill="#7c3aed" opacity="0.2" filter="url(#glow)" />
+
+  <!-- Wave Lines Decorative -->
+  <path d="M0 160 C 300 210, 600 120, 900 170 C 1050 195, 1150 180, 1200 170 L 1200 220 L 0 220 Z" fill="url(#wave-grad)" />
+  <path d="M0 180 C 350 140, 700 220, 1050 160 C 1120 148, 1180 155, 1200 160 L 1200 220 L 0 220 Z" fill="#6b21a8" opacity="0.35" />
+
+  <!-- Main Title -->
+  <text x="600" y="95" text-anchor="middle" fill="url(#accent-text)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="46" font-weight="800" letter-spacing="1.5">
+    Juan Diego López
+  </text>
+
+  <!-- Subtitle / Tagline -->
+  <text x="600" y="145" text-anchor="middle" fill="#c084fc" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="20" font-weight="600" letter-spacing="1">
+    DevOps &amp; Data Platform Engineer  |  Cloud &amp; Lakehouse Architect
+  </text>
+
+  <!-- Tech Mini-Tags -->
+  <text x="600" y="180" text-anchor="middle" fill="#e9d5ff" font-family="'Fira Code', monospace, Courier" font-size="13" font-weight="500" opacity="0.85">
+    AWS • Kubernetes • Cilium eBPF • PySpark 4.0 • Terraform • FinOps
+  </text>
+</svg>
